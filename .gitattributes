@@ -1,0 +1,4 @@
+# Check out LF everywhere. A CRLF shebang in bin/ makes the CLI unrunnable on
+# Linux, and npm packs the working copy, so this is not only a tidiness matter.
+* text=auto eol=lf
+*.png binary
