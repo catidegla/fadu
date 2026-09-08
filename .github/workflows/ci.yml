@@ -1,0 +1,70 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    name: Node ${{ matrix.node }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        node: ['22', '24']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+      - run: npm test
+
+  floor:
+    # package.json claims Node 18. The test runner needs a newer Node than the
+    # library does, so the claim is checked by exercising the public surface
+    # rather than by being taken on trust.
+    name: Oldest supported Node ${{ matrix.node }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        node: ['18', '20']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+      - run: npm run smoke
+      - run: node bin/fadu.mjs show "Ogbe Oyeku"
+      - run: node bin/fadu.mjs read --ikin 2,2,2,2,1,1,1,1
+
+  data:
+    name: Published data is current
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm run build:data
+      - name: The JSON tables must match src/du.mjs
+        run: git diff --exit-code data/
+
+  dependencies:
+    name: Still zero dependencies
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refuse a dependency creeping in
+        run: |
+          node -e '
+            const pkg = require("./package.json");
+            const counts = ["dependencies", "peerDependencies", "optionalDependencies"]
+              .map((field) => Object.keys(pkg[field] ?? {}).length);
+            if (counts.some((n) => n > 0)) {
+              console.error("this package ships with none, and the README says so");
+              process.exit(1);
+            }
+            console.log("zero dependencies");
+          '

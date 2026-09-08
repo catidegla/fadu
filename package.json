@@ -1,0 +1,54 @@
+{
+  "name": "fadu",
+  "version": "0.1.0",
+  "description": "The structural layer of Fa and Ifa divination: the sixteen du, the 256 signs, and how a figure is cast. No interpretation, no dependencies.",
+  "type": "module",
+  "main": "./src/index.mjs",
+  "exports": {
+    ".": "./src/index.mjs",
+    "./data/du.json": "./data/du.json"
+  },
+  "bin": {
+    "fadu": "./bin/fadu.mjs"
+  },
+  "files": [
+    "src",
+    "bin",
+    "data",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test \"test/**/*.test.mjs\"",
+    "build:data": "node scripts/build-data.mjs",
+    "smoke": "node scripts/smoke.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "ifa",
+    "fa",
+    "odu",
+    "divination",
+    "benin",
+    "yoruba",
+    "fon",
+    "west-africa",
+    "geomancy",
+    "binary"
+  ],
+  "author": "Christ-loisele Atidegla",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catidegla/fadu.git"
+  },
+  "homepage": "https://github.com/catidegla/fadu#readme",
+  "bugs": {
+    "url": "https://github.com/catidegla/fadu/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

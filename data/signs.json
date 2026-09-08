@@ -1,0 +1,2562 @@
+[
+  {
+    "index": 0,
+    "bits": 255,
+    "fon": "Gbé Mèdji",
+    "yoruba": "Ogbè Méjì",
+    "meji": true,
+    "right": 1,
+    "left": 1,
+    "figure": "1111|1111"
+  },
+  {
+    "index": 1,
+    "bits": 240,
+    "fon": "Gbé Yèku",
+    "yoruba": "Ogbè Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 1,
+    "left": 2,
+    "figure": "1111|2222"
+  },
+  {
+    "index": 2,
+    "bits": 246,
+    "fon": "Gbé Woli",
+    "yoruba": "Ogbè Ìwòrì",
+    "meji": false,
+    "right": 1,
+    "left": 3,
+    "figure": "1111|2112"
+  },
+  {
+    "index": 3,
+    "bits": 249,
+    "fon": "Gbé Di",
+    "yoruba": "Ogbè Òdí",
+    "meji": false,
+    "right": 1,
+    "left": 4,
+    "figure": "1111|1221"
+  },
+  {
+    "index": 4,
+    "bits": 252,
+    "fon": "Gbé Loso",
+    "yoruba": "Ogbè Ìrosùn",
+    "meji": false,
+    "right": 1,
+    "left": 5,
+    "figure": "1111|1122"
+  },
+  {
+    "index": 5,
+    "bits": 243,
+    "fon": "Gbé Wlin",
+    "yoruba": "Ogbè Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 1,
+    "left": 6,
+    "figure": "1111|2211"
+  },
+  {
+    "index": 6,
+    "bits": 248,
+    "fon": "Gbé Abla",
+    "yoruba": "Ogbè Ọ̀bàrà",
+    "meji": false,
+    "right": 1,
+    "left": 7,
+    "figure": "1111|1222"
+  },
+  {
+    "index": 7,
+    "bits": 241,
+    "fon": "Gbé Aklan",
+    "yoruba": "Ogbè Ọ̀kànràn",
+    "meji": false,
+    "right": 1,
+    "left": 8,
+    "figure": "1111|2221"
+  },
+  {
+    "index": 8,
+    "bits": 254,
+    "fon": "Gbé Guda",
+    "yoruba": "Ogbè Ògúndá",
+    "meji": false,
+    "right": 1,
+    "left": 9,
+    "figure": "1111|1112"
+  },
+  {
+    "index": 9,
+    "bits": 247,
+    "fon": "Gbé Sa",
+    "yoruba": "Ogbè Ọ̀sá",
+    "meji": false,
+    "right": 1,
+    "left": 10,
+    "figure": "1111|2111"
+  },
+  {
+    "index": 10,
+    "bits": 244,
+    "fon": "Gbé Ka",
+    "yoruba": "Ogbè Ìká",
+    "meji": false,
+    "right": 1,
+    "left": 11,
+    "figure": "1111|2122"
+  },
+  {
+    "index": 11,
+    "bits": 242,
+    "fon": "Gbé Trukpen",
+    "yoruba": "Ogbè Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 1,
+    "left": 12,
+    "figure": "1111|2212"
+  },
+  {
+    "index": 12,
+    "bits": 251,
+    "fon": "Gbé Tula",
+    "yoruba": "Ogbè Òtúrá",
+    "meji": false,
+    "right": 1,
+    "left": 13,
+    "figure": "1111|1211"
+  },
+  {
+    "index": 13,
+    "bits": 253,
+    "fon": "Gbé Lete",
+    "yoruba": "Ogbè Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 1,
+    "left": 14,
+    "figure": "1111|1121"
+  },
+  {
+    "index": 14,
+    "bits": 250,
+    "fon": "Gbé Tché",
+    "yoruba": "Ogbè Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 1,
+    "left": 15,
+    "figure": "1111|1212"
+  },
+  {
+    "index": 15,
+    "bits": 245,
+    "fon": "Gbé Fu",
+    "yoruba": "Ogbè Òfún",
+    "meji": false,
+    "right": 1,
+    "left": 16,
+    "figure": "1111|2121"
+  },
+  {
+    "index": 16,
+    "bits": 15,
+    "fon": "Yèku Gbé",
+    "yoruba": "Ọ̀yẹ̀kú Ogbè",
+    "meji": false,
+    "right": 2,
+    "left": 1,
+    "figure": "2222|1111"
+  },
+  {
+    "index": 17,
+    "bits": 0,
+    "fon": "Yèku Mèdji",
+    "yoruba": "Ọ̀yẹ̀kú Méjì",
+    "meji": true,
+    "right": 2,
+    "left": 2,
+    "figure": "2222|2222"
+  },
+  {
+    "index": 18,
+    "bits": 6,
+    "fon": "Yèku Woli",
+    "yoruba": "Ọ̀yẹ̀kú Ìwòrì",
+    "meji": false,
+    "right": 2,
+    "left": 3,
+    "figure": "2222|2112"
+  },
+  {
+    "index": 19,
+    "bits": 9,
+    "fon": "Yèku Di",
+    "yoruba": "Ọ̀yẹ̀kú Òdí",
+    "meji": false,
+    "right": 2,
+    "left": 4,
+    "figure": "2222|1221"
+  },
+  {
+    "index": 20,
+    "bits": 12,
+    "fon": "Yèku Loso",
+    "yoruba": "Ọ̀yẹ̀kú Ìrosùn",
+    "meji": false,
+    "right": 2,
+    "left": 5,
+    "figure": "2222|1122"
+  },
+  {
+    "index": 21,
+    "bits": 3,
+    "fon": "Yèku Wlin",
+    "yoruba": "Ọ̀yẹ̀kú Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 2,
+    "left": 6,
+    "figure": "2222|2211"
+  },
+  {
+    "index": 22,
+    "bits": 8,
+    "fon": "Yèku Abla",
+    "yoruba": "Ọ̀yẹ̀kú Ọ̀bàrà",
+    "meji": false,
+    "right": 2,
+    "left": 7,
+    "figure": "2222|1222"
+  },
+  {
+    "index": 23,
+    "bits": 1,
+    "fon": "Yèku Aklan",
+    "yoruba": "Ọ̀yẹ̀kú Ọ̀kànràn",
+    "meji": false,
+    "right": 2,
+    "left": 8,
+    "figure": "2222|2221"
+  },
+  {
+    "index": 24,
+    "bits": 14,
+    "fon": "Yèku Guda",
+    "yoruba": "Ọ̀yẹ̀kú Ògúndá",
+    "meji": false,
+    "right": 2,
+    "left": 9,
+    "figure": "2222|1112"
+  },
+  {
+    "index": 25,
+    "bits": 7,
+    "fon": "Yèku Sa",
+    "yoruba": "Ọ̀yẹ̀kú Ọ̀sá",
+    "meji": false,
+    "right": 2,
+    "left": 10,
+    "figure": "2222|2111"
+  },
+  {
+    "index": 26,
+    "bits": 4,
+    "fon": "Yèku Ka",
+    "yoruba": "Ọ̀yẹ̀kú Ìká",
+    "meji": false,
+    "right": 2,
+    "left": 11,
+    "figure": "2222|2122"
+  },
+  {
+    "index": 27,
+    "bits": 2,
+    "fon": "Yèku Trukpen",
+    "yoruba": "Ọ̀yẹ̀kú Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 2,
+    "left": 12,
+    "figure": "2222|2212"
+  },
+  {
+    "index": 28,
+    "bits": 11,
+    "fon": "Yèku Tula",
+    "yoruba": "Ọ̀yẹ̀kú Òtúrá",
+    "meji": false,
+    "right": 2,
+    "left": 13,
+    "figure": "2222|1211"
+  },
+  {
+    "index": 29,
+    "bits": 13,
+    "fon": "Yèku Lete",
+    "yoruba": "Ọ̀yẹ̀kú Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 2,
+    "left": 14,
+    "figure": "2222|1121"
+  },
+  {
+    "index": 30,
+    "bits": 10,
+    "fon": "Yèku Tché",
+    "yoruba": "Ọ̀yẹ̀kú Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 2,
+    "left": 15,
+    "figure": "2222|1212"
+  },
+  {
+    "index": 31,
+    "bits": 5,
+    "fon": "Yèku Fu",
+    "yoruba": "Ọ̀yẹ̀kú Òfún",
+    "meji": false,
+    "right": 2,
+    "left": 16,
+    "figure": "2222|2121"
+  },
+  {
+    "index": 32,
+    "bits": 111,
+    "fon": "Woli Gbé",
+    "yoruba": "Ìwòrì Ogbè",
+    "meji": false,
+    "right": 3,
+    "left": 1,
+    "figure": "2112|1111"
+  },
+  {
+    "index": 33,
+    "bits": 96,
+    "fon": "Woli Yèku",
+    "yoruba": "Ìwòrì Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 3,
+    "left": 2,
+    "figure": "2112|2222"
+  },
+  {
+    "index": 34,
+    "bits": 102,
+    "fon": "Woli Mèdji",
+    "yoruba": "Ìwòrì Méjì",
+    "meji": true,
+    "right": 3,
+    "left": 3,
+    "figure": "2112|2112"
+  },
+  {
+    "index": 35,
+    "bits": 105,
+    "fon": "Woli Di",
+    "yoruba": "Ìwòrì Òdí",
+    "meji": false,
+    "right": 3,
+    "left": 4,
+    "figure": "2112|1221"
+  },
+  {
+    "index": 36,
+    "bits": 108,
+    "fon": "Woli Loso",
+    "yoruba": "Ìwòrì Ìrosùn",
+    "meji": false,
+    "right": 3,
+    "left": 5,
+    "figure": "2112|1122"
+  },
+  {
+    "index": 37,
+    "bits": 99,
+    "fon": "Woli Wlin",
+    "yoruba": "Ìwòrì Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 3,
+    "left": 6,
+    "figure": "2112|2211"
+  },
+  {
+    "index": 38,
+    "bits": 104,
+    "fon": "Woli Abla",
+    "yoruba": "Ìwòrì Ọ̀bàrà",
+    "meji": false,
+    "right": 3,
+    "left": 7,
+    "figure": "2112|1222"
+  },
+  {
+    "index": 39,
+    "bits": 97,
+    "fon": "Woli Aklan",
+    "yoruba": "Ìwòrì Ọ̀kànràn",
+    "meji": false,
+    "right": 3,
+    "left": 8,
+    "figure": "2112|2221"
+  },
+  {
+    "index": 40,
+    "bits": 110,
+    "fon": "Woli Guda",
+    "yoruba": "Ìwòrì Ògúndá",
+    "meji": false,
+    "right": 3,
+    "left": 9,
+    "figure": "2112|1112"
+  },
+  {
+    "index": 41,
+    "bits": 103,
+    "fon": "Woli Sa",
+    "yoruba": "Ìwòrì Ọ̀sá",
+    "meji": false,
+    "right": 3,
+    "left": 10,
+    "figure": "2112|2111"
+  },
+  {
+    "index": 42,
+    "bits": 100,
+    "fon": "Woli Ka",
+    "yoruba": "Ìwòrì Ìká",
+    "meji": false,
+    "right": 3,
+    "left": 11,
+    "figure": "2112|2122"
+  },
+  {
+    "index": 43,
+    "bits": 98,
+    "fon": "Woli Trukpen",
+    "yoruba": "Ìwòrì Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 3,
+    "left": 12,
+    "figure": "2112|2212"
+  },
+  {
+    "index": 44,
+    "bits": 107,
+    "fon": "Woli Tula",
+    "yoruba": "Ìwòrì Òtúrá",
+    "meji": false,
+    "right": 3,
+    "left": 13,
+    "figure": "2112|1211"
+  },
+  {
+    "index": 45,
+    "bits": 109,
+    "fon": "Woli Lete",
+    "yoruba": "Ìwòrì Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 3,
+    "left": 14,
+    "figure": "2112|1121"
+  },
+  {
+    "index": 46,
+    "bits": 106,
+    "fon": "Woli Tché",
+    "yoruba": "Ìwòrì Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 3,
+    "left": 15,
+    "figure": "2112|1212"
+  },
+  {
+    "index": 47,
+    "bits": 101,
+    "fon": "Woli Fu",
+    "yoruba": "Ìwòrì Òfún",
+    "meji": false,
+    "right": 3,
+    "left": 16,
+    "figure": "2112|2121"
+  },
+  {
+    "index": 48,
+    "bits": 159,
+    "fon": "Di Gbé",
+    "yoruba": "Òdí Ogbè",
+    "meji": false,
+    "right": 4,
+    "left": 1,
+    "figure": "1221|1111"
+  },
+  {
+    "index": 49,
+    "bits": 144,
+    "fon": "Di Yèku",
+    "yoruba": "Òdí Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 4,
+    "left": 2,
+    "figure": "1221|2222"
+  },
+  {
+    "index": 50,
+    "bits": 150,
+    "fon": "Di Woli",
+    "yoruba": "Òdí Ìwòrì",
+    "meji": false,
+    "right": 4,
+    "left": 3,
+    "figure": "1221|2112"
+  },
+  {
+    "index": 51,
+    "bits": 153,
+    "fon": "Di Mèdji",
+    "yoruba": "Òdí Méjì",
+    "meji": true,
+    "right": 4,
+    "left": 4,
+    "figure": "1221|1221"
+  },
+  {
+    "index": 52,
+    "bits": 156,
+    "fon": "Di Loso",
+    "yoruba": "Òdí Ìrosùn",
+    "meji": false,
+    "right": 4,
+    "left": 5,
+    "figure": "1221|1122"
+  },
+  {
+    "index": 53,
+    "bits": 147,
+    "fon": "Di Wlin",
+    "yoruba": "Òdí Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 4,
+    "left": 6,
+    "figure": "1221|2211"
+  },
+  {
+    "index": 54,
+    "bits": 152,
+    "fon": "Di Abla",
+    "yoruba": "Òdí Ọ̀bàrà",
+    "meji": false,
+    "right": 4,
+    "left": 7,
+    "figure": "1221|1222"
+  },
+  {
+    "index": 55,
+    "bits": 145,
+    "fon": "Di Aklan",
+    "yoruba": "Òdí Ọ̀kànràn",
+    "meji": false,
+    "right": 4,
+    "left": 8,
+    "figure": "1221|2221"
+  },
+  {
+    "index": 56,
+    "bits": 158,
+    "fon": "Di Guda",
+    "yoruba": "Òdí Ògúndá",
+    "meji": false,
+    "right": 4,
+    "left": 9,
+    "figure": "1221|1112"
+  },
+  {
+    "index": 57,
+    "bits": 151,
+    "fon": "Di Sa",
+    "yoruba": "Òdí Ọ̀sá",
+    "meji": false,
+    "right": 4,
+    "left": 10,
+    "figure": "1221|2111"
+  },
+  {
+    "index": 58,
+    "bits": 148,
+    "fon": "Di Ka",
+    "yoruba": "Òdí Ìká",
+    "meji": false,
+    "right": 4,
+    "left": 11,
+    "figure": "1221|2122"
+  },
+  {
+    "index": 59,
+    "bits": 146,
+    "fon": "Di Trukpen",
+    "yoruba": "Òdí Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 4,
+    "left": 12,
+    "figure": "1221|2212"
+  },
+  {
+    "index": 60,
+    "bits": 155,
+    "fon": "Di Tula",
+    "yoruba": "Òdí Òtúrá",
+    "meji": false,
+    "right": 4,
+    "left": 13,
+    "figure": "1221|1211"
+  },
+  {
+    "index": 61,
+    "bits": 157,
+    "fon": "Di Lete",
+    "yoruba": "Òdí Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 4,
+    "left": 14,
+    "figure": "1221|1121"
+  },
+  {
+    "index": 62,
+    "bits": 154,
+    "fon": "Di Tché",
+    "yoruba": "Òdí Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 4,
+    "left": 15,
+    "figure": "1221|1212"
+  },
+  {
+    "index": 63,
+    "bits": 149,
+    "fon": "Di Fu",
+    "yoruba": "Òdí Òfún",
+    "meji": false,
+    "right": 4,
+    "left": 16,
+    "figure": "1221|2121"
+  },
+  {
+    "index": 64,
+    "bits": 207,
+    "fon": "Loso Gbé",
+    "yoruba": "Ìrosùn Ogbè",
+    "meji": false,
+    "right": 5,
+    "left": 1,
+    "figure": "1122|1111"
+  },
+  {
+    "index": 65,
+    "bits": 192,
+    "fon": "Loso Yèku",
+    "yoruba": "Ìrosùn Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 5,
+    "left": 2,
+    "figure": "1122|2222"
+  },
+  {
+    "index": 66,
+    "bits": 198,
+    "fon": "Loso Woli",
+    "yoruba": "Ìrosùn Ìwòrì",
+    "meji": false,
+    "right": 5,
+    "left": 3,
+    "figure": "1122|2112"
+  },
+  {
+    "index": 67,
+    "bits": 201,
+    "fon": "Loso Di",
+    "yoruba": "Ìrosùn Òdí",
+    "meji": false,
+    "right": 5,
+    "left": 4,
+    "figure": "1122|1221"
+  },
+  {
+    "index": 68,
+    "bits": 204,
+    "fon": "Loso Mèdji",
+    "yoruba": "Ìrosùn Méjì",
+    "meji": true,
+    "right": 5,
+    "left": 5,
+    "figure": "1122|1122"
+  },
+  {
+    "index": 69,
+    "bits": 195,
+    "fon": "Loso Wlin",
+    "yoruba": "Ìrosùn Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 5,
+    "left": 6,
+    "figure": "1122|2211"
+  },
+  {
+    "index": 70,
+    "bits": 200,
+    "fon": "Loso Abla",
+    "yoruba": "Ìrosùn Ọ̀bàrà",
+    "meji": false,
+    "right": 5,
+    "left": 7,
+    "figure": "1122|1222"
+  },
+  {
+    "index": 71,
+    "bits": 193,
+    "fon": "Loso Aklan",
+    "yoruba": "Ìrosùn Ọ̀kànràn",
+    "meji": false,
+    "right": 5,
+    "left": 8,
+    "figure": "1122|2221"
+  },
+  {
+    "index": 72,
+    "bits": 206,
+    "fon": "Loso Guda",
+    "yoruba": "Ìrosùn Ògúndá",
+    "meji": false,
+    "right": 5,
+    "left": 9,
+    "figure": "1122|1112"
+  },
+  {
+    "index": 73,
+    "bits": 199,
+    "fon": "Loso Sa",
+    "yoruba": "Ìrosùn Ọ̀sá",
+    "meji": false,
+    "right": 5,
+    "left": 10,
+    "figure": "1122|2111"
+  },
+  {
+    "index": 74,
+    "bits": 196,
+    "fon": "Loso Ka",
+    "yoruba": "Ìrosùn Ìká",
+    "meji": false,
+    "right": 5,
+    "left": 11,
+    "figure": "1122|2122"
+  },
+  {
+    "index": 75,
+    "bits": 194,
+    "fon": "Loso Trukpen",
+    "yoruba": "Ìrosùn Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 5,
+    "left": 12,
+    "figure": "1122|2212"
+  },
+  {
+    "index": 76,
+    "bits": 203,
+    "fon": "Loso Tula",
+    "yoruba": "Ìrosùn Òtúrá",
+    "meji": false,
+    "right": 5,
+    "left": 13,
+    "figure": "1122|1211"
+  },
+  {
+    "index": 77,
+    "bits": 205,
+    "fon": "Loso Lete",
+    "yoruba": "Ìrosùn Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 5,
+    "left": 14,
+    "figure": "1122|1121"
+  },
+  {
+    "index": 78,
+    "bits": 202,
+    "fon": "Loso Tché",
+    "yoruba": "Ìrosùn Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 5,
+    "left": 15,
+    "figure": "1122|1212"
+  },
+  {
+    "index": 79,
+    "bits": 197,
+    "fon": "Loso Fu",
+    "yoruba": "Ìrosùn Òfún",
+    "meji": false,
+    "right": 5,
+    "left": 16,
+    "figure": "1122|2121"
+  },
+  {
+    "index": 80,
+    "bits": 63,
+    "fon": "Wlin Gbé",
+    "yoruba": "Ọ̀wọ́nrín Ogbè",
+    "meji": false,
+    "right": 6,
+    "left": 1,
+    "figure": "2211|1111"
+  },
+  {
+    "index": 81,
+    "bits": 48,
+    "fon": "Wlin Yèku",
+    "yoruba": "Ọ̀wọ́nrín Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 6,
+    "left": 2,
+    "figure": "2211|2222"
+  },
+  {
+    "index": 82,
+    "bits": 54,
+    "fon": "Wlin Woli",
+    "yoruba": "Ọ̀wọ́nrín Ìwòrì",
+    "meji": false,
+    "right": 6,
+    "left": 3,
+    "figure": "2211|2112"
+  },
+  {
+    "index": 83,
+    "bits": 57,
+    "fon": "Wlin Di",
+    "yoruba": "Ọ̀wọ́nrín Òdí",
+    "meji": false,
+    "right": 6,
+    "left": 4,
+    "figure": "2211|1221"
+  },
+  {
+    "index": 84,
+    "bits": 60,
+    "fon": "Wlin Loso",
+    "yoruba": "Ọ̀wọ́nrín Ìrosùn",
+    "meji": false,
+    "right": 6,
+    "left": 5,
+    "figure": "2211|1122"
+  },
+  {
+    "index": 85,
+    "bits": 51,
+    "fon": "Wlin Mèdji",
+    "yoruba": "Ọ̀wọ́nrín Méjì",
+    "meji": true,
+    "right": 6,
+    "left": 6,
+    "figure": "2211|2211"
+  },
+  {
+    "index": 86,
+    "bits": 56,
+    "fon": "Wlin Abla",
+    "yoruba": "Ọ̀wọ́nrín Ọ̀bàrà",
+    "meji": false,
+    "right": 6,
+    "left": 7,
+    "figure": "2211|1222"
+  },
+  {
+    "index": 87,
+    "bits": 49,
+    "fon": "Wlin Aklan",
+    "yoruba": "Ọ̀wọ́nrín Ọ̀kànràn",
+    "meji": false,
+    "right": 6,
+    "left": 8,
+    "figure": "2211|2221"
+  },
+  {
+    "index": 88,
+    "bits": 62,
+    "fon": "Wlin Guda",
+    "yoruba": "Ọ̀wọ́nrín Ògúndá",
+    "meji": false,
+    "right": 6,
+    "left": 9,
+    "figure": "2211|1112"
+  },
+  {
+    "index": 89,
+    "bits": 55,
+    "fon": "Wlin Sa",
+    "yoruba": "Ọ̀wọ́nrín Ọ̀sá",
+    "meji": false,
+    "right": 6,
+    "left": 10,
+    "figure": "2211|2111"
+  },
+  {
+    "index": 90,
+    "bits": 52,
+    "fon": "Wlin Ka",
+    "yoruba": "Ọ̀wọ́nrín Ìká",
+    "meji": false,
+    "right": 6,
+    "left": 11,
+    "figure": "2211|2122"
+  },
+  {
+    "index": 91,
+    "bits": 50,
+    "fon": "Wlin Trukpen",
+    "yoruba": "Ọ̀wọ́nrín Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 6,
+    "left": 12,
+    "figure": "2211|2212"
+  },
+  {
+    "index": 92,
+    "bits": 59,
+    "fon": "Wlin Tula",
+    "yoruba": "Ọ̀wọ́nrín Òtúrá",
+    "meji": false,
+    "right": 6,
+    "left": 13,
+    "figure": "2211|1211"
+  },
+  {
+    "index": 93,
+    "bits": 61,
+    "fon": "Wlin Lete",
+    "yoruba": "Ọ̀wọ́nrín Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 6,
+    "left": 14,
+    "figure": "2211|1121"
+  },
+  {
+    "index": 94,
+    "bits": 58,
+    "fon": "Wlin Tché",
+    "yoruba": "Ọ̀wọ́nrín Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 6,
+    "left": 15,
+    "figure": "2211|1212"
+  },
+  {
+    "index": 95,
+    "bits": 53,
+    "fon": "Wlin Fu",
+    "yoruba": "Ọ̀wọ́nrín Òfún",
+    "meji": false,
+    "right": 6,
+    "left": 16,
+    "figure": "2211|2121"
+  },
+  {
+    "index": 96,
+    "bits": 143,
+    "fon": "Abla Gbé",
+    "yoruba": "Ọ̀bàrà Ogbè",
+    "meji": false,
+    "right": 7,
+    "left": 1,
+    "figure": "1222|1111"
+  },
+  {
+    "index": 97,
+    "bits": 128,
+    "fon": "Abla Yèku",
+    "yoruba": "Ọ̀bàrà Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 7,
+    "left": 2,
+    "figure": "1222|2222"
+  },
+  {
+    "index": 98,
+    "bits": 134,
+    "fon": "Abla Woli",
+    "yoruba": "Ọ̀bàrà Ìwòrì",
+    "meji": false,
+    "right": 7,
+    "left": 3,
+    "figure": "1222|2112"
+  },
+  {
+    "index": 99,
+    "bits": 137,
+    "fon": "Abla Di",
+    "yoruba": "Ọ̀bàrà Òdí",
+    "meji": false,
+    "right": 7,
+    "left": 4,
+    "figure": "1222|1221"
+  },
+  {
+    "index": 100,
+    "bits": 140,
+    "fon": "Abla Loso",
+    "yoruba": "Ọ̀bàrà Ìrosùn",
+    "meji": false,
+    "right": 7,
+    "left": 5,
+    "figure": "1222|1122"
+  },
+  {
+    "index": 101,
+    "bits": 131,
+    "fon": "Abla Wlin",
+    "yoruba": "Ọ̀bàrà Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 7,
+    "left": 6,
+    "figure": "1222|2211"
+  },
+  {
+    "index": 102,
+    "bits": 136,
+    "fon": "Abla Mèdji",
+    "yoruba": "Ọ̀bàrà Méjì",
+    "meji": true,
+    "right": 7,
+    "left": 7,
+    "figure": "1222|1222"
+  },
+  {
+    "index": 103,
+    "bits": 129,
+    "fon": "Abla Aklan",
+    "yoruba": "Ọ̀bàrà Ọ̀kànràn",
+    "meji": false,
+    "right": 7,
+    "left": 8,
+    "figure": "1222|2221"
+  },
+  {
+    "index": 104,
+    "bits": 142,
+    "fon": "Abla Guda",
+    "yoruba": "Ọ̀bàrà Ògúndá",
+    "meji": false,
+    "right": 7,
+    "left": 9,
+    "figure": "1222|1112"
+  },
+  {
+    "index": 105,
+    "bits": 135,
+    "fon": "Abla Sa",
+    "yoruba": "Ọ̀bàrà Ọ̀sá",
+    "meji": false,
+    "right": 7,
+    "left": 10,
+    "figure": "1222|2111"
+  },
+  {
+    "index": 106,
+    "bits": 132,
+    "fon": "Abla Ka",
+    "yoruba": "Ọ̀bàrà Ìká",
+    "meji": false,
+    "right": 7,
+    "left": 11,
+    "figure": "1222|2122"
+  },
+  {
+    "index": 107,
+    "bits": 130,
+    "fon": "Abla Trukpen",
+    "yoruba": "Ọ̀bàrà Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 7,
+    "left": 12,
+    "figure": "1222|2212"
+  },
+  {
+    "index": 108,
+    "bits": 139,
+    "fon": "Abla Tula",
+    "yoruba": "Ọ̀bàrà Òtúrá",
+    "meji": false,
+    "right": 7,
+    "left": 13,
+    "figure": "1222|1211"
+  },
+  {
+    "index": 109,
+    "bits": 141,
+    "fon": "Abla Lete",
+    "yoruba": "Ọ̀bàrà Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 7,
+    "left": 14,
+    "figure": "1222|1121"
+  },
+  {
+    "index": 110,
+    "bits": 138,
+    "fon": "Abla Tché",
+    "yoruba": "Ọ̀bàrà Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 7,
+    "left": 15,
+    "figure": "1222|1212"
+  },
+  {
+    "index": 111,
+    "bits": 133,
+    "fon": "Abla Fu",
+    "yoruba": "Ọ̀bàrà Òfún",
+    "meji": false,
+    "right": 7,
+    "left": 16,
+    "figure": "1222|2121"
+  },
+  {
+    "index": 112,
+    "bits": 31,
+    "fon": "Aklan Gbé",
+    "yoruba": "Ọ̀kànràn Ogbè",
+    "meji": false,
+    "right": 8,
+    "left": 1,
+    "figure": "2221|1111"
+  },
+  {
+    "index": 113,
+    "bits": 16,
+    "fon": "Aklan Yèku",
+    "yoruba": "Ọ̀kànràn Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 8,
+    "left": 2,
+    "figure": "2221|2222"
+  },
+  {
+    "index": 114,
+    "bits": 22,
+    "fon": "Aklan Woli",
+    "yoruba": "Ọ̀kànràn Ìwòrì",
+    "meji": false,
+    "right": 8,
+    "left": 3,
+    "figure": "2221|2112"
+  },
+  {
+    "index": 115,
+    "bits": 25,
+    "fon": "Aklan Di",
+    "yoruba": "Ọ̀kànràn Òdí",
+    "meji": false,
+    "right": 8,
+    "left": 4,
+    "figure": "2221|1221"
+  },
+  {
+    "index": 116,
+    "bits": 28,
+    "fon": "Aklan Loso",
+    "yoruba": "Ọ̀kànràn Ìrosùn",
+    "meji": false,
+    "right": 8,
+    "left": 5,
+    "figure": "2221|1122"
+  },
+  {
+    "index": 117,
+    "bits": 19,
+    "fon": "Aklan Wlin",
+    "yoruba": "Ọ̀kànràn Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 8,
+    "left": 6,
+    "figure": "2221|2211"
+  },
+  {
+    "index": 118,
+    "bits": 24,
+    "fon": "Aklan Abla",
+    "yoruba": "Ọ̀kànràn Ọ̀bàrà",
+    "meji": false,
+    "right": 8,
+    "left": 7,
+    "figure": "2221|1222"
+  },
+  {
+    "index": 119,
+    "bits": 17,
+    "fon": "Aklan Mèdji",
+    "yoruba": "Ọ̀kànràn Méjì",
+    "meji": true,
+    "right": 8,
+    "left": 8,
+    "figure": "2221|2221"
+  },
+  {
+    "index": 120,
+    "bits": 30,
+    "fon": "Aklan Guda",
+    "yoruba": "Ọ̀kànràn Ògúndá",
+    "meji": false,
+    "right": 8,
+    "left": 9,
+    "figure": "2221|1112"
+  },
+  {
+    "index": 121,
+    "bits": 23,
+    "fon": "Aklan Sa",
+    "yoruba": "Ọ̀kànràn Ọ̀sá",
+    "meji": false,
+    "right": 8,
+    "left": 10,
+    "figure": "2221|2111"
+  },
+  {
+    "index": 122,
+    "bits": 20,
+    "fon": "Aklan Ka",
+    "yoruba": "Ọ̀kànràn Ìká",
+    "meji": false,
+    "right": 8,
+    "left": 11,
+    "figure": "2221|2122"
+  },
+  {
+    "index": 123,
+    "bits": 18,
+    "fon": "Aklan Trukpen",
+    "yoruba": "Ọ̀kànràn Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 8,
+    "left": 12,
+    "figure": "2221|2212"
+  },
+  {
+    "index": 124,
+    "bits": 27,
+    "fon": "Aklan Tula",
+    "yoruba": "Ọ̀kànràn Òtúrá",
+    "meji": false,
+    "right": 8,
+    "left": 13,
+    "figure": "2221|1211"
+  },
+  {
+    "index": 125,
+    "bits": 29,
+    "fon": "Aklan Lete",
+    "yoruba": "Ọ̀kànràn Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 8,
+    "left": 14,
+    "figure": "2221|1121"
+  },
+  {
+    "index": 126,
+    "bits": 26,
+    "fon": "Aklan Tché",
+    "yoruba": "Ọ̀kànràn Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 8,
+    "left": 15,
+    "figure": "2221|1212"
+  },
+  {
+    "index": 127,
+    "bits": 21,
+    "fon": "Aklan Fu",
+    "yoruba": "Ọ̀kànràn Òfún",
+    "meji": false,
+    "right": 8,
+    "left": 16,
+    "figure": "2221|2121"
+  },
+  {
+    "index": 128,
+    "bits": 239,
+    "fon": "Guda Gbé",
+    "yoruba": "Ògúndá Ogbè",
+    "meji": false,
+    "right": 9,
+    "left": 1,
+    "figure": "1112|1111"
+  },
+  {
+    "index": 129,
+    "bits": 224,
+    "fon": "Guda Yèku",
+    "yoruba": "Ògúndá Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 9,
+    "left": 2,
+    "figure": "1112|2222"
+  },
+  {
+    "index": 130,
+    "bits": 230,
+    "fon": "Guda Woli",
+    "yoruba": "Ògúndá Ìwòrì",
+    "meji": false,
+    "right": 9,
+    "left": 3,
+    "figure": "1112|2112"
+  },
+  {
+    "index": 131,
+    "bits": 233,
+    "fon": "Guda Di",
+    "yoruba": "Ògúndá Òdí",
+    "meji": false,
+    "right": 9,
+    "left": 4,
+    "figure": "1112|1221"
+  },
+  {
+    "index": 132,
+    "bits": 236,
+    "fon": "Guda Loso",
+    "yoruba": "Ògúndá Ìrosùn",
+    "meji": false,
+    "right": 9,
+    "left": 5,
+    "figure": "1112|1122"
+  },
+  {
+    "index": 133,
+    "bits": 227,
+    "fon": "Guda Wlin",
+    "yoruba": "Ògúndá Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 9,
+    "left": 6,
+    "figure": "1112|2211"
+  },
+  {
+    "index": 134,
+    "bits": 232,
+    "fon": "Guda Abla",
+    "yoruba": "Ògúndá Ọ̀bàrà",
+    "meji": false,
+    "right": 9,
+    "left": 7,
+    "figure": "1112|1222"
+  },
+  {
+    "index": 135,
+    "bits": 225,
+    "fon": "Guda Aklan",
+    "yoruba": "Ògúndá Ọ̀kànràn",
+    "meji": false,
+    "right": 9,
+    "left": 8,
+    "figure": "1112|2221"
+  },
+  {
+    "index": 136,
+    "bits": 238,
+    "fon": "Guda Mèdji",
+    "yoruba": "Ògúndá Méjì",
+    "meji": true,
+    "right": 9,
+    "left": 9,
+    "figure": "1112|1112"
+  },
+  {
+    "index": 137,
+    "bits": 231,
+    "fon": "Guda Sa",
+    "yoruba": "Ògúndá Ọ̀sá",
+    "meji": false,
+    "right": 9,
+    "left": 10,
+    "figure": "1112|2111"
+  },
+  {
+    "index": 138,
+    "bits": 228,
+    "fon": "Guda Ka",
+    "yoruba": "Ògúndá Ìká",
+    "meji": false,
+    "right": 9,
+    "left": 11,
+    "figure": "1112|2122"
+  },
+  {
+    "index": 139,
+    "bits": 226,
+    "fon": "Guda Trukpen",
+    "yoruba": "Ògúndá Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 9,
+    "left": 12,
+    "figure": "1112|2212"
+  },
+  {
+    "index": 140,
+    "bits": 235,
+    "fon": "Guda Tula",
+    "yoruba": "Ògúndá Òtúrá",
+    "meji": false,
+    "right": 9,
+    "left": 13,
+    "figure": "1112|1211"
+  },
+  {
+    "index": 141,
+    "bits": 237,
+    "fon": "Guda Lete",
+    "yoruba": "Ògúndá Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 9,
+    "left": 14,
+    "figure": "1112|1121"
+  },
+  {
+    "index": 142,
+    "bits": 234,
+    "fon": "Guda Tché",
+    "yoruba": "Ògúndá Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 9,
+    "left": 15,
+    "figure": "1112|1212"
+  },
+  {
+    "index": 143,
+    "bits": 229,
+    "fon": "Guda Fu",
+    "yoruba": "Ògúndá Òfún",
+    "meji": false,
+    "right": 9,
+    "left": 16,
+    "figure": "1112|2121"
+  },
+  {
+    "index": 144,
+    "bits": 127,
+    "fon": "Sa Gbé",
+    "yoruba": "Ọ̀sá Ogbè",
+    "meji": false,
+    "right": 10,
+    "left": 1,
+    "figure": "2111|1111"
+  },
+  {
+    "index": 145,
+    "bits": 112,
+    "fon": "Sa Yèku",
+    "yoruba": "Ọ̀sá Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 10,
+    "left": 2,
+    "figure": "2111|2222"
+  },
+  {
+    "index": 146,
+    "bits": 118,
+    "fon": "Sa Woli",
+    "yoruba": "Ọ̀sá Ìwòrì",
+    "meji": false,
+    "right": 10,
+    "left": 3,
+    "figure": "2111|2112"
+  },
+  {
+    "index": 147,
+    "bits": 121,
+    "fon": "Sa Di",
+    "yoruba": "Ọ̀sá Òdí",
+    "meji": false,
+    "right": 10,
+    "left": 4,
+    "figure": "2111|1221"
+  },
+  {
+    "index": 148,
+    "bits": 124,
+    "fon": "Sa Loso",
+    "yoruba": "Ọ̀sá Ìrosùn",
+    "meji": false,
+    "right": 10,
+    "left": 5,
+    "figure": "2111|1122"
+  },
+  {
+    "index": 149,
+    "bits": 115,
+    "fon": "Sa Wlin",
+    "yoruba": "Ọ̀sá Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 10,
+    "left": 6,
+    "figure": "2111|2211"
+  },
+  {
+    "index": 150,
+    "bits": 120,
+    "fon": "Sa Abla",
+    "yoruba": "Ọ̀sá Ọ̀bàrà",
+    "meji": false,
+    "right": 10,
+    "left": 7,
+    "figure": "2111|1222"
+  },
+  {
+    "index": 151,
+    "bits": 113,
+    "fon": "Sa Aklan",
+    "yoruba": "Ọ̀sá Ọ̀kànràn",
+    "meji": false,
+    "right": 10,
+    "left": 8,
+    "figure": "2111|2221"
+  },
+  {
+    "index": 152,
+    "bits": 126,
+    "fon": "Sa Guda",
+    "yoruba": "Ọ̀sá Ògúndá",
+    "meji": false,
+    "right": 10,
+    "left": 9,
+    "figure": "2111|1112"
+  },
+  {
+    "index": 153,
+    "bits": 119,
+    "fon": "Sa Mèdji",
+    "yoruba": "Ọ̀sá Méjì",
+    "meji": true,
+    "right": 10,
+    "left": 10,
+    "figure": "2111|2111"
+  },
+  {
+    "index": 154,
+    "bits": 116,
+    "fon": "Sa Ka",
+    "yoruba": "Ọ̀sá Ìká",
+    "meji": false,
+    "right": 10,
+    "left": 11,
+    "figure": "2111|2122"
+  },
+  {
+    "index": 155,
+    "bits": 114,
+    "fon": "Sa Trukpen",
+    "yoruba": "Ọ̀sá Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 10,
+    "left": 12,
+    "figure": "2111|2212"
+  },
+  {
+    "index": 156,
+    "bits": 123,
+    "fon": "Sa Tula",
+    "yoruba": "Ọ̀sá Òtúrá",
+    "meji": false,
+    "right": 10,
+    "left": 13,
+    "figure": "2111|1211"
+  },
+  {
+    "index": 157,
+    "bits": 125,
+    "fon": "Sa Lete",
+    "yoruba": "Ọ̀sá Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 10,
+    "left": 14,
+    "figure": "2111|1121"
+  },
+  {
+    "index": 158,
+    "bits": 122,
+    "fon": "Sa Tché",
+    "yoruba": "Ọ̀sá Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 10,
+    "left": 15,
+    "figure": "2111|1212"
+  },
+  {
+    "index": 159,
+    "bits": 117,
+    "fon": "Sa Fu",
+    "yoruba": "Ọ̀sá Òfún",
+    "meji": false,
+    "right": 10,
+    "left": 16,
+    "figure": "2111|2121"
+  },
+  {
+    "index": 160,
+    "bits": 79,
+    "fon": "Ka Gbé",
+    "yoruba": "Ìká Ogbè",
+    "meji": false,
+    "right": 11,
+    "left": 1,
+    "figure": "2122|1111"
+  },
+  {
+    "index": 161,
+    "bits": 64,
+    "fon": "Ka Yèku",
+    "yoruba": "Ìká Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 11,
+    "left": 2,
+    "figure": "2122|2222"
+  },
+  {
+    "index": 162,
+    "bits": 70,
+    "fon": "Ka Woli",
+    "yoruba": "Ìká Ìwòrì",
+    "meji": false,
+    "right": 11,
+    "left": 3,
+    "figure": "2122|2112"
+  },
+  {
+    "index": 163,
+    "bits": 73,
+    "fon": "Ka Di",
+    "yoruba": "Ìká Òdí",
+    "meji": false,
+    "right": 11,
+    "left": 4,
+    "figure": "2122|1221"
+  },
+  {
+    "index": 164,
+    "bits": 76,
+    "fon": "Ka Loso",
+    "yoruba": "Ìká Ìrosùn",
+    "meji": false,
+    "right": 11,
+    "left": 5,
+    "figure": "2122|1122"
+  },
+  {
+    "index": 165,
+    "bits": 67,
+    "fon": "Ka Wlin",
+    "yoruba": "Ìká Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 11,
+    "left": 6,
+    "figure": "2122|2211"
+  },
+  {
+    "index": 166,
+    "bits": 72,
+    "fon": "Ka Abla",
+    "yoruba": "Ìká Ọ̀bàrà",
+    "meji": false,
+    "right": 11,
+    "left": 7,
+    "figure": "2122|1222"
+  },
+  {
+    "index": 167,
+    "bits": 65,
+    "fon": "Ka Aklan",
+    "yoruba": "Ìká Ọ̀kànràn",
+    "meji": false,
+    "right": 11,
+    "left": 8,
+    "figure": "2122|2221"
+  },
+  {
+    "index": 168,
+    "bits": 78,
+    "fon": "Ka Guda",
+    "yoruba": "Ìká Ògúndá",
+    "meji": false,
+    "right": 11,
+    "left": 9,
+    "figure": "2122|1112"
+  },
+  {
+    "index": 169,
+    "bits": 71,
+    "fon": "Ka Sa",
+    "yoruba": "Ìká Ọ̀sá",
+    "meji": false,
+    "right": 11,
+    "left": 10,
+    "figure": "2122|2111"
+  },
+  {
+    "index": 170,
+    "bits": 68,
+    "fon": "Ka Mèdji",
+    "yoruba": "Ìká Méjì",
+    "meji": true,
+    "right": 11,
+    "left": 11,
+    "figure": "2122|2122"
+  },
+  {
+    "index": 171,
+    "bits": 66,
+    "fon": "Ka Trukpen",
+    "yoruba": "Ìká Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 11,
+    "left": 12,
+    "figure": "2122|2212"
+  },
+  {
+    "index": 172,
+    "bits": 75,
+    "fon": "Ka Tula",
+    "yoruba": "Ìká Òtúrá",
+    "meji": false,
+    "right": 11,
+    "left": 13,
+    "figure": "2122|1211"
+  },
+  {
+    "index": 173,
+    "bits": 77,
+    "fon": "Ka Lete",
+    "yoruba": "Ìká Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 11,
+    "left": 14,
+    "figure": "2122|1121"
+  },
+  {
+    "index": 174,
+    "bits": 74,
+    "fon": "Ka Tché",
+    "yoruba": "Ìká Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 11,
+    "left": 15,
+    "figure": "2122|1212"
+  },
+  {
+    "index": 175,
+    "bits": 69,
+    "fon": "Ka Fu",
+    "yoruba": "Ìká Òfún",
+    "meji": false,
+    "right": 11,
+    "left": 16,
+    "figure": "2122|2121"
+  },
+  {
+    "index": 176,
+    "bits": 47,
+    "fon": "Trukpen Gbé",
+    "yoruba": "Òtúúrúpọ̀n Ogbè",
+    "meji": false,
+    "right": 12,
+    "left": 1,
+    "figure": "2212|1111"
+  },
+  {
+    "index": 177,
+    "bits": 32,
+    "fon": "Trukpen Yèku",
+    "yoruba": "Òtúúrúpọ̀n Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 12,
+    "left": 2,
+    "figure": "2212|2222"
+  },
+  {
+    "index": 178,
+    "bits": 38,
+    "fon": "Trukpen Woli",
+    "yoruba": "Òtúúrúpọ̀n Ìwòrì",
+    "meji": false,
+    "right": 12,
+    "left": 3,
+    "figure": "2212|2112"
+  },
+  {
+    "index": 179,
+    "bits": 41,
+    "fon": "Trukpen Di",
+    "yoruba": "Òtúúrúpọ̀n Òdí",
+    "meji": false,
+    "right": 12,
+    "left": 4,
+    "figure": "2212|1221"
+  },
+  {
+    "index": 180,
+    "bits": 44,
+    "fon": "Trukpen Loso",
+    "yoruba": "Òtúúrúpọ̀n Ìrosùn",
+    "meji": false,
+    "right": 12,
+    "left": 5,
+    "figure": "2212|1122"
+  },
+  {
+    "index": 181,
+    "bits": 35,
+    "fon": "Trukpen Wlin",
+    "yoruba": "Òtúúrúpọ̀n Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 12,
+    "left": 6,
+    "figure": "2212|2211"
+  },
+  {
+    "index": 182,
+    "bits": 40,
+    "fon": "Trukpen Abla",
+    "yoruba": "Òtúúrúpọ̀n Ọ̀bàrà",
+    "meji": false,
+    "right": 12,
+    "left": 7,
+    "figure": "2212|1222"
+  },
+  {
+    "index": 183,
+    "bits": 33,
+    "fon": "Trukpen Aklan",
+    "yoruba": "Òtúúrúpọ̀n Ọ̀kànràn",
+    "meji": false,
+    "right": 12,
+    "left": 8,
+    "figure": "2212|2221"
+  },
+  {
+    "index": 184,
+    "bits": 46,
+    "fon": "Trukpen Guda",
+    "yoruba": "Òtúúrúpọ̀n Ògúndá",
+    "meji": false,
+    "right": 12,
+    "left": 9,
+    "figure": "2212|1112"
+  },
+  {
+    "index": 185,
+    "bits": 39,
+    "fon": "Trukpen Sa",
+    "yoruba": "Òtúúrúpọ̀n Ọ̀sá",
+    "meji": false,
+    "right": 12,
+    "left": 10,
+    "figure": "2212|2111"
+  },
+  {
+    "index": 186,
+    "bits": 36,
+    "fon": "Trukpen Ka",
+    "yoruba": "Òtúúrúpọ̀n Ìká",
+    "meji": false,
+    "right": 12,
+    "left": 11,
+    "figure": "2212|2122"
+  },
+  {
+    "index": 187,
+    "bits": 34,
+    "fon": "Trukpen Mèdji",
+    "yoruba": "Òtúúrúpọ̀n Méjì",
+    "meji": true,
+    "right": 12,
+    "left": 12,
+    "figure": "2212|2212"
+  },
+  {
+    "index": 188,
+    "bits": 43,
+    "fon": "Trukpen Tula",
+    "yoruba": "Òtúúrúpọ̀n Òtúrá",
+    "meji": false,
+    "right": 12,
+    "left": 13,
+    "figure": "2212|1211"
+  },
+  {
+    "index": 189,
+    "bits": 45,
+    "fon": "Trukpen Lete",
+    "yoruba": "Òtúúrúpọ̀n Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 12,
+    "left": 14,
+    "figure": "2212|1121"
+  },
+  {
+    "index": 190,
+    "bits": 42,
+    "fon": "Trukpen Tché",
+    "yoruba": "Òtúúrúpọ̀n Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 12,
+    "left": 15,
+    "figure": "2212|1212"
+  },
+  {
+    "index": 191,
+    "bits": 37,
+    "fon": "Trukpen Fu",
+    "yoruba": "Òtúúrúpọ̀n Òfún",
+    "meji": false,
+    "right": 12,
+    "left": 16,
+    "figure": "2212|2121"
+  },
+  {
+    "index": 192,
+    "bits": 191,
+    "fon": "Tula Gbé",
+    "yoruba": "Òtúrá Ogbè",
+    "meji": false,
+    "right": 13,
+    "left": 1,
+    "figure": "1211|1111"
+  },
+  {
+    "index": 193,
+    "bits": 176,
+    "fon": "Tula Yèku",
+    "yoruba": "Òtúrá Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 13,
+    "left": 2,
+    "figure": "1211|2222"
+  },
+  {
+    "index": 194,
+    "bits": 182,
+    "fon": "Tula Woli",
+    "yoruba": "Òtúrá Ìwòrì",
+    "meji": false,
+    "right": 13,
+    "left": 3,
+    "figure": "1211|2112"
+  },
+  {
+    "index": 195,
+    "bits": 185,
+    "fon": "Tula Di",
+    "yoruba": "Òtúrá Òdí",
+    "meji": false,
+    "right": 13,
+    "left": 4,
+    "figure": "1211|1221"
+  },
+  {
+    "index": 196,
+    "bits": 188,
+    "fon": "Tula Loso",
+    "yoruba": "Òtúrá Ìrosùn",
+    "meji": false,
+    "right": 13,
+    "left": 5,
+    "figure": "1211|1122"
+  },
+  {
+    "index": 197,
+    "bits": 179,
+    "fon": "Tula Wlin",
+    "yoruba": "Òtúrá Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 13,
+    "left": 6,
+    "figure": "1211|2211"
+  },
+  {
+    "index": 198,
+    "bits": 184,
+    "fon": "Tula Abla",
+    "yoruba": "Òtúrá Ọ̀bàrà",
+    "meji": false,
+    "right": 13,
+    "left": 7,
+    "figure": "1211|1222"
+  },
+  {
+    "index": 199,
+    "bits": 177,
+    "fon": "Tula Aklan",
+    "yoruba": "Òtúrá Ọ̀kànràn",
+    "meji": false,
+    "right": 13,
+    "left": 8,
+    "figure": "1211|2221"
+  },
+  {
+    "index": 200,
+    "bits": 190,
+    "fon": "Tula Guda",
+    "yoruba": "Òtúrá Ògúndá",
+    "meji": false,
+    "right": 13,
+    "left": 9,
+    "figure": "1211|1112"
+  },
+  {
+    "index": 201,
+    "bits": 183,
+    "fon": "Tula Sa",
+    "yoruba": "Òtúrá Ọ̀sá",
+    "meji": false,
+    "right": 13,
+    "left": 10,
+    "figure": "1211|2111"
+  },
+  {
+    "index": 202,
+    "bits": 180,
+    "fon": "Tula Ka",
+    "yoruba": "Òtúrá Ìká",
+    "meji": false,
+    "right": 13,
+    "left": 11,
+    "figure": "1211|2122"
+  },
+  {
+    "index": 203,
+    "bits": 178,
+    "fon": "Tula Trukpen",
+    "yoruba": "Òtúrá Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 13,
+    "left": 12,
+    "figure": "1211|2212"
+  },
+  {
+    "index": 204,
+    "bits": 187,
+    "fon": "Tula Mèdji",
+    "yoruba": "Òtúrá Méjì",
+    "meji": true,
+    "right": 13,
+    "left": 13,
+    "figure": "1211|1211"
+  },
+  {
+    "index": 205,
+    "bits": 189,
+    "fon": "Tula Lete",
+    "yoruba": "Òtúrá Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 13,
+    "left": 14,
+    "figure": "1211|1121"
+  },
+  {
+    "index": 206,
+    "bits": 186,
+    "fon": "Tula Tché",
+    "yoruba": "Òtúrá Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 13,
+    "left": 15,
+    "figure": "1211|1212"
+  },
+  {
+    "index": 207,
+    "bits": 181,
+    "fon": "Tula Fu",
+    "yoruba": "Òtúrá Òfún",
+    "meji": false,
+    "right": 13,
+    "left": 16,
+    "figure": "1211|2121"
+  },
+  {
+    "index": 208,
+    "bits": 223,
+    "fon": "Lete Gbé",
+    "yoruba": "Ìrẹ̀tẹ̀ Ogbè",
+    "meji": false,
+    "right": 14,
+    "left": 1,
+    "figure": "1121|1111"
+  },
+  {
+    "index": 209,
+    "bits": 208,
+    "fon": "Lete Yèku",
+    "yoruba": "Ìrẹ̀tẹ̀ Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 14,
+    "left": 2,
+    "figure": "1121|2222"
+  },
+  {
+    "index": 210,
+    "bits": 214,
+    "fon": "Lete Woli",
+    "yoruba": "Ìrẹ̀tẹ̀ Ìwòrì",
+    "meji": false,
+    "right": 14,
+    "left": 3,
+    "figure": "1121|2112"
+  },
+  {
+    "index": 211,
+    "bits": 217,
+    "fon": "Lete Di",
+    "yoruba": "Ìrẹ̀tẹ̀ Òdí",
+    "meji": false,
+    "right": 14,
+    "left": 4,
+    "figure": "1121|1221"
+  },
+  {
+    "index": 212,
+    "bits": 220,
+    "fon": "Lete Loso",
+    "yoruba": "Ìrẹ̀tẹ̀ Ìrosùn",
+    "meji": false,
+    "right": 14,
+    "left": 5,
+    "figure": "1121|1122"
+  },
+  {
+    "index": 213,
+    "bits": 211,
+    "fon": "Lete Wlin",
+    "yoruba": "Ìrẹ̀tẹ̀ Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 14,
+    "left": 6,
+    "figure": "1121|2211"
+  },
+  {
+    "index": 214,
+    "bits": 216,
+    "fon": "Lete Abla",
+    "yoruba": "Ìrẹ̀tẹ̀ Ọ̀bàrà",
+    "meji": false,
+    "right": 14,
+    "left": 7,
+    "figure": "1121|1222"
+  },
+  {
+    "index": 215,
+    "bits": 209,
+    "fon": "Lete Aklan",
+    "yoruba": "Ìrẹ̀tẹ̀ Ọ̀kànràn",
+    "meji": false,
+    "right": 14,
+    "left": 8,
+    "figure": "1121|2221"
+  },
+  {
+    "index": 216,
+    "bits": 222,
+    "fon": "Lete Guda",
+    "yoruba": "Ìrẹ̀tẹ̀ Ògúndá",
+    "meji": false,
+    "right": 14,
+    "left": 9,
+    "figure": "1121|1112"
+  },
+  {
+    "index": 217,
+    "bits": 215,
+    "fon": "Lete Sa",
+    "yoruba": "Ìrẹ̀tẹ̀ Ọ̀sá",
+    "meji": false,
+    "right": 14,
+    "left": 10,
+    "figure": "1121|2111"
+  },
+  {
+    "index": 218,
+    "bits": 212,
+    "fon": "Lete Ka",
+    "yoruba": "Ìrẹ̀tẹ̀ Ìká",
+    "meji": false,
+    "right": 14,
+    "left": 11,
+    "figure": "1121|2122"
+  },
+  {
+    "index": 219,
+    "bits": 210,
+    "fon": "Lete Trukpen",
+    "yoruba": "Ìrẹ̀tẹ̀ Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 14,
+    "left": 12,
+    "figure": "1121|2212"
+  },
+  {
+    "index": 220,
+    "bits": 219,
+    "fon": "Lete Tula",
+    "yoruba": "Ìrẹ̀tẹ̀ Òtúrá",
+    "meji": false,
+    "right": 14,
+    "left": 13,
+    "figure": "1121|1211"
+  },
+  {
+    "index": 221,
+    "bits": 221,
+    "fon": "Lete Mèdji",
+    "yoruba": "Ìrẹ̀tẹ̀ Méjì",
+    "meji": true,
+    "right": 14,
+    "left": 14,
+    "figure": "1121|1121"
+  },
+  {
+    "index": 222,
+    "bits": 218,
+    "fon": "Lete Tché",
+    "yoruba": "Ìrẹ̀tẹ̀ Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 14,
+    "left": 15,
+    "figure": "1121|1212"
+  },
+  {
+    "index": 223,
+    "bits": 213,
+    "fon": "Lete Fu",
+    "yoruba": "Ìrẹ̀tẹ̀ Òfún",
+    "meji": false,
+    "right": 14,
+    "left": 16,
+    "figure": "1121|2121"
+  },
+  {
+    "index": 224,
+    "bits": 175,
+    "fon": "Tché Gbé",
+    "yoruba": "Ọ̀ṣẹ́ Ogbè",
+    "meji": false,
+    "right": 15,
+    "left": 1,
+    "figure": "1212|1111"
+  },
+  {
+    "index": 225,
+    "bits": 160,
+    "fon": "Tché Yèku",
+    "yoruba": "Ọ̀ṣẹ́ Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 15,
+    "left": 2,
+    "figure": "1212|2222"
+  },
+  {
+    "index": 226,
+    "bits": 166,
+    "fon": "Tché Woli",
+    "yoruba": "Ọ̀ṣẹ́ Ìwòrì",
+    "meji": false,
+    "right": 15,
+    "left": 3,
+    "figure": "1212|2112"
+  },
+  {
+    "index": 227,
+    "bits": 169,
+    "fon": "Tché Di",
+    "yoruba": "Ọ̀ṣẹ́ Òdí",
+    "meji": false,
+    "right": 15,
+    "left": 4,
+    "figure": "1212|1221"
+  },
+  {
+    "index": 228,
+    "bits": 172,
+    "fon": "Tché Loso",
+    "yoruba": "Ọ̀ṣẹ́ Ìrosùn",
+    "meji": false,
+    "right": 15,
+    "left": 5,
+    "figure": "1212|1122"
+  },
+  {
+    "index": 229,
+    "bits": 163,
+    "fon": "Tché Wlin",
+    "yoruba": "Ọ̀ṣẹ́ Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 15,
+    "left": 6,
+    "figure": "1212|2211"
+  },
+  {
+    "index": 230,
+    "bits": 168,
+    "fon": "Tché Abla",
+    "yoruba": "Ọ̀ṣẹ́ Ọ̀bàrà",
+    "meji": false,
+    "right": 15,
+    "left": 7,
+    "figure": "1212|1222"
+  },
+  {
+    "index": 231,
+    "bits": 161,
+    "fon": "Tché Aklan",
+    "yoruba": "Ọ̀ṣẹ́ Ọ̀kànràn",
+    "meji": false,
+    "right": 15,
+    "left": 8,
+    "figure": "1212|2221"
+  },
+  {
+    "index": 232,
+    "bits": 174,
+    "fon": "Tché Guda",
+    "yoruba": "Ọ̀ṣẹ́ Ògúndá",
+    "meji": false,
+    "right": 15,
+    "left": 9,
+    "figure": "1212|1112"
+  },
+  {
+    "index": 233,
+    "bits": 167,
+    "fon": "Tché Sa",
+    "yoruba": "Ọ̀ṣẹ́ Ọ̀sá",
+    "meji": false,
+    "right": 15,
+    "left": 10,
+    "figure": "1212|2111"
+  },
+  {
+    "index": 234,
+    "bits": 164,
+    "fon": "Tché Ka",
+    "yoruba": "Ọ̀ṣẹ́ Ìká",
+    "meji": false,
+    "right": 15,
+    "left": 11,
+    "figure": "1212|2122"
+  },
+  {
+    "index": 235,
+    "bits": 162,
+    "fon": "Tché Trukpen",
+    "yoruba": "Ọ̀ṣẹ́ Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 15,
+    "left": 12,
+    "figure": "1212|2212"
+  },
+  {
+    "index": 236,
+    "bits": 171,
+    "fon": "Tché Tula",
+    "yoruba": "Ọ̀ṣẹ́ Òtúrá",
+    "meji": false,
+    "right": 15,
+    "left": 13,
+    "figure": "1212|1211"
+  },
+  {
+    "index": 237,
+    "bits": 173,
+    "fon": "Tché Lete",
+    "yoruba": "Ọ̀ṣẹ́ Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 15,
+    "left": 14,
+    "figure": "1212|1121"
+  },
+  {
+    "index": 238,
+    "bits": 170,
+    "fon": "Tché Mèdji",
+    "yoruba": "Ọ̀ṣẹ́ Méjì",
+    "meji": true,
+    "right": 15,
+    "left": 15,
+    "figure": "1212|1212"
+  },
+  {
+    "index": 239,
+    "bits": 165,
+    "fon": "Tché Fu",
+    "yoruba": "Ọ̀ṣẹ́ Òfún",
+    "meji": false,
+    "right": 15,
+    "left": 16,
+    "figure": "1212|2121"
+  },
+  {
+    "index": 240,
+    "bits": 95,
+    "fon": "Fu Gbé",
+    "yoruba": "Òfún Ogbè",
+    "meji": false,
+    "right": 16,
+    "left": 1,
+    "figure": "2121|1111"
+  },
+  {
+    "index": 241,
+    "bits": 80,
+    "fon": "Fu Yèku",
+    "yoruba": "Òfún Ọ̀yẹ̀kú",
+    "meji": false,
+    "right": 16,
+    "left": 2,
+    "figure": "2121|2222"
+  },
+  {
+    "index": 242,
+    "bits": 86,
+    "fon": "Fu Woli",
+    "yoruba": "Òfún Ìwòrì",
+    "meji": false,
+    "right": 16,
+    "left": 3,
+    "figure": "2121|2112"
+  },
+  {
+    "index": 243,
+    "bits": 89,
+    "fon": "Fu Di",
+    "yoruba": "Òfún Òdí",
+    "meji": false,
+    "right": 16,
+    "left": 4,
+    "figure": "2121|1221"
+  },
+  {
+    "index": 244,
+    "bits": 92,
+    "fon": "Fu Loso",
+    "yoruba": "Òfún Ìrosùn",
+    "meji": false,
+    "right": 16,
+    "left": 5,
+    "figure": "2121|1122"
+  },
+  {
+    "index": 245,
+    "bits": 83,
+    "fon": "Fu Wlin",
+    "yoruba": "Òfún Ọ̀wọ́nrín",
+    "meji": false,
+    "right": 16,
+    "left": 6,
+    "figure": "2121|2211"
+  },
+  {
+    "index": 246,
+    "bits": 88,
+    "fon": "Fu Abla",
+    "yoruba": "Òfún Ọ̀bàrà",
+    "meji": false,
+    "right": 16,
+    "left": 7,
+    "figure": "2121|1222"
+  },
+  {
+    "index": 247,
+    "bits": 81,
+    "fon": "Fu Aklan",
+    "yoruba": "Òfún Ọ̀kànràn",
+    "meji": false,
+    "right": 16,
+    "left": 8,
+    "figure": "2121|2221"
+  },
+  {
+    "index": 248,
+    "bits": 94,
+    "fon": "Fu Guda",
+    "yoruba": "Òfún Ògúndá",
+    "meji": false,
+    "right": 16,
+    "left": 9,
+    "figure": "2121|1112"
+  },
+  {
+    "index": 249,
+    "bits": 87,
+    "fon": "Fu Sa",
+    "yoruba": "Òfún Ọ̀sá",
+    "meji": false,
+    "right": 16,
+    "left": 10,
+    "figure": "2121|2111"
+  },
+  {
+    "index": 250,
+    "bits": 84,
+    "fon": "Fu Ka",
+    "yoruba": "Òfún Ìká",
+    "meji": false,
+    "right": 16,
+    "left": 11,
+    "figure": "2121|2122"
+  },
+  {
+    "index": 251,
+    "bits": 82,
+    "fon": "Fu Trukpen",
+    "yoruba": "Òfún Òtúúrúpọ̀n",
+    "meji": false,
+    "right": 16,
+    "left": 12,
+    "figure": "2121|2212"
+  },
+  {
+    "index": 252,
+    "bits": 91,
+    "fon": "Fu Tula",
+    "yoruba": "Òfún Òtúrá",
+    "meji": false,
+    "right": 16,
+    "left": 13,
+    "figure": "2121|1211"
+  },
+  {
+    "index": 253,
+    "bits": 93,
+    "fon": "Fu Lete",
+    "yoruba": "Òfún Ìrẹ̀tẹ̀",
+    "meji": false,
+    "right": 16,
+    "left": 14,
+    "figure": "2121|1121"
+  },
+  {
+    "index": 254,
+    "bits": 90,
+    "fon": "Fu Tché",
+    "yoruba": "Òfún Ọ̀ṣẹ́",
+    "meji": false,
+    "right": 16,
+    "left": 15,
+    "figure": "2121|1212"
+  },
+  {
+    "index": 255,
+    "bits": 85,
+    "fon": "Fu Mèdji",
+    "yoruba": "Òfún Méjì",
+    "meji": true,
+    "right": 16,
+    "left": 16,
+    "figure": "2121|2121"
+  }
+]

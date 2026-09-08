@@ -1,0 +1,282 @@
+[
+  {
+    "rank": 1,
+    "fon": "Gbé",
+    "yoruba": "Ogbè",
+    "marks": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "bits": 15,
+    "aliases": [
+      "Djogbe",
+      "Eji Ogbe",
+      "Ejiogbe"
+    ],
+    "palindrome": true,
+    "reverse": 1,
+    "complement": 2
+  },
+  {
+    "rank": 2,
+    "fon": "Yèku",
+    "yoruba": "Ọ̀yẹ̀kú",
+    "marks": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "bits": 0,
+    "aliases": [],
+    "palindrome": true,
+    "reverse": 2,
+    "complement": 1
+  },
+  {
+    "rank": 3,
+    "fon": "Woli",
+    "yoruba": "Ìwòrì",
+    "marks": [
+      2,
+      1,
+      1,
+      2
+    ],
+    "bits": 6,
+    "aliases": [
+      "Wori"
+    ],
+    "palindrome": true,
+    "reverse": 3,
+    "complement": 4
+  },
+  {
+    "rank": 4,
+    "fon": "Di",
+    "yoruba": "Òdí",
+    "marks": [
+      1,
+      2,
+      2,
+      1
+    ],
+    "bits": 9,
+    "aliases": [],
+    "palindrome": true,
+    "reverse": 4,
+    "complement": 3
+  },
+  {
+    "rank": 5,
+    "fon": "Loso",
+    "yoruba": "Ìrosùn",
+    "marks": [
+      1,
+      1,
+      2,
+      2
+    ],
+    "bits": 12,
+    "aliases": [
+      "Losso"
+    ],
+    "palindrome": false,
+    "reverse": 6,
+    "complement": 6
+  },
+  {
+    "rank": 6,
+    "fon": "Wlin",
+    "yoruba": "Ọ̀wọ́nrín",
+    "marks": [
+      2,
+      2,
+      1,
+      1
+    ],
+    "bits": 3,
+    "aliases": [
+      "Wenlen",
+      "Owanrin"
+    ],
+    "palindrome": false,
+    "reverse": 5,
+    "complement": 5
+  },
+  {
+    "rank": 7,
+    "fon": "Abla",
+    "yoruba": "Ọ̀bàrà",
+    "marks": [
+      1,
+      2,
+      2,
+      2
+    ],
+    "bits": 8,
+    "aliases": [],
+    "palindrome": false,
+    "reverse": 8,
+    "complement": 10
+  },
+  {
+    "rank": 8,
+    "fon": "Aklan",
+    "yoruba": "Ọ̀kànràn",
+    "marks": [
+      2,
+      2,
+      2,
+      1
+    ],
+    "bits": 1,
+    "aliases": [],
+    "palindrome": false,
+    "reverse": 7,
+    "complement": 9
+  },
+  {
+    "rank": 9,
+    "fon": "Guda",
+    "yoruba": "Ògúndá",
+    "marks": [
+      1,
+      1,
+      1,
+      2
+    ],
+    "bits": 14,
+    "aliases": [],
+    "palindrome": false,
+    "reverse": 10,
+    "complement": 8
+  },
+  {
+    "rank": 10,
+    "fon": "Sa",
+    "yoruba": "Ọ̀sá",
+    "marks": [
+      2,
+      1,
+      1,
+      1
+    ],
+    "bits": 7,
+    "aliases": [],
+    "palindrome": false,
+    "reverse": 9,
+    "complement": 7
+  },
+  {
+    "rank": 11,
+    "fon": "Ka",
+    "yoruba": "Ìká",
+    "marks": [
+      2,
+      1,
+      2,
+      2
+    ],
+    "bits": 4,
+    "aliases": [],
+    "palindrome": false,
+    "reverse": 12,
+    "complement": 13
+  },
+  {
+    "rank": 12,
+    "fon": "Trukpen",
+    "yoruba": "Òtúúrúpọ̀n",
+    "marks": [
+      2,
+      2,
+      1,
+      2
+    ],
+    "bits": 2,
+    "aliases": [
+      "Trukpin",
+      "Oturupon",
+      "Otrupon"
+    ],
+    "palindrome": false,
+    "reverse": 11,
+    "complement": 14
+  },
+  {
+    "rank": 13,
+    "fon": "Tula",
+    "yoruba": "Òtúrá",
+    "marks": [
+      1,
+      2,
+      1,
+      1
+    ],
+    "bits": 11,
+    "aliases": [],
+    "palindrome": false,
+    "reverse": 14,
+    "complement": 11
+  },
+  {
+    "rank": 14,
+    "fon": "Lete",
+    "yoruba": "Ìrẹ̀tẹ̀",
+    "marks": [
+      1,
+      1,
+      2,
+      1
+    ],
+    "bits": 13,
+    "aliases": [
+      "Lètè"
+    ],
+    "palindrome": false,
+    "reverse": 13,
+    "complement": 12
+  },
+  {
+    "rank": 15,
+    "fon": "Tché",
+    "yoruba": "Ọ̀ṣẹ́",
+    "marks": [
+      1,
+      2,
+      1,
+      2
+    ],
+    "bits": 10,
+    "aliases": [
+      "Tche",
+      "She",
+      "Cè"
+    ],
+    "palindrome": false,
+    "reverse": 16,
+    "complement": 16
+  },
+  {
+    "rank": 16,
+    "fon": "Fu",
+    "yoruba": "Òfún",
+    "marks": [
+      2,
+      1,
+      2,
+      1
+    ],
+    "bits": 5,
+    "aliases": [
+      "Orangun",
+      "Ọ̀ràngún"
+    ],
+    "palindrome": false,
+    "reverse": 15,
+    "complement": 15
+  }
+]
