@@ -7,7 +7,7 @@
 The structural layer of Fa and Ifá. No interpretation, no dependencies.
 
 [![CI](https://github.com/catidegla/fadu/actions/workflows/ci.yml/badge.svg)](https://github.com/catidegla/fadu/actions/workflows/ci.yml)
-[![npm](https://img.shields.io/npm/v/fadu?color=cb3837)](https://www.npmjs.com/package/fadu)
+[![npm](https://img.shields.io/npm/v/%40catidegla%2Ffadu?color=cb3837)](https://www.npmjs.com/package/@catidegla/fadu)
 [![Zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)](package.json)
 [![Node](https://img.shields.io/badge/node-%E2%89%A518-339933)](package.json)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -17,7 +17,7 @@ The structural layer of Fa and Ifá. No interpretation, no dependencies.
 ---
 
 ```bash
-npx fadu cast
+npx @catidegla/fadu cast
 ```
 
 ```
@@ -48,7 +48,7 @@ That is a deliberate line. The interpretive corpus is enormous, it is held and t
 ## Install
 
 ```bash
-npm install fadu
+npm install @catidegla/fadu
 ```
 
 ## Casting
@@ -56,7 +56,7 @@ npm install fadu
 The sixteen palm nuts, **ikin**, are worked in eight passes. The chain, **opele** in Yoruba and **agumaga** in Fon, carries eight pods on two arms and gives the whole figure in one throw. Either way the right column is produced first, so it comes first in every list of eight in this API.
 
 ```js
-import { castOpele, castIkin } from 'fadu';
+import { castOpele, castIkin } from '@catidegla/fadu';
 
 const { sign, faces } = castOpele();
 
@@ -77,7 +77,7 @@ castIkin({ random: seeded });
 The more useful direction, when the throw is physical and the application is only recording it.
 
 ```js
-import { readIkin, readOpele } from 'fadu';
+import { readIkin, readOpele } from '@catidegla/fadu';
 
 // One nut left in the hand is a double stroke. Two nuts left is a single.
 readIkin([2, 2, 2, 2, 1, 1, 1, 1]).fon;            // 'Gbé Yèku'
@@ -96,7 +96,7 @@ readIkin([2, 2, 2, 2, 3, 1, 1, 1]);
 ## Signs
 
 ```js
-import { sign, parse, SIGNS, MEJI } from 'fadu';
+import { sign, parse, SIGNS, MEJI } from '@catidegla/fadu';
 
 sign('Gbé', 'Yèku').yoruba;   // 'Ogbè Ọ̀yẹ̀kú'   right column first
 sign('Tula').fon;             // 'Tula Mèdji'    named once, so a doubling

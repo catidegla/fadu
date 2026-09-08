@@ -1,5 +1,5 @@
 {
-  "name": "fadu",
+  "name": "@catidegla/fadu",
   "version": "0.1.0",
   "description": "The structural layer of Fa and Ifa divination: the sixteen du, the 256 signs, and how a figure is cast. No interpretation, no dependencies.",
   "type": "module",
@@ -9,7 +9,7 @@
     "./data/du.json": "./data/du.json"
   },
   "bin": {
-    "fadu": "./bin/fadu.mjs"
+    "fadu": "bin/fadu.mjs"
   },
   "files": [
     "src",
