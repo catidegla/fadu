@@ -39,6 +39,8 @@ Fa is the divination system of the Fon of Benin. The Yoruba practise it as Ifá,
 
 This package is that structure and nothing else: the sixteen principal dù with their figures and their names in both languages, the 256 signs they compose, the two casting instruments, and the relations that hold between signs.
 
+Searching npm and GitHub on 8 September 2026 turned up no library encoding this structure, in any language. That absence is the reason this exists, and it is also a warning: there is nothing to check the figures against except the sources, which is why they are cited below and asserted in tests.
+
 ## What this is not
 
 **There are no verses here, and no readings.** A sign comes back with its figure, its names and its structure. What it means is not in this package and will not be added to it.
