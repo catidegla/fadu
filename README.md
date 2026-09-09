@@ -2,7 +2,7 @@
 
 # fadu
 
-**The sixteen dù, the 256 signs, and how a figure is cast.**
+The sixteen dù, the 256 signs, and how a figure is cast.
 
 The structural layer of Fa and Ifá. No interpretation, no dependencies.
 
@@ -43,7 +43,7 @@ Searching npm and GitHub on 8 September 2026 turned up no library encoding this 
 
 ## What this is not
 
-**There are no verses here, and no readings.** A sign comes back with its figure, its names and its structure. What it means is not in this package and will not be added to it.
+There are no verses here, and no readings. A sign comes back with its figure, its names and its structure. What it means is not in this package and will not be added to it.
 
 That is a deliberate line. The interpretive corpus is enormous, it is held and taught differently by different lineages, and a good deal of it is knowledge that belongs to initiates. Compressing it into a JSON file would produce something both wrong and presumptuous. An application that has the standing to carry interpretation can carry it, keyed on the index or the name this package gives it.
 
@@ -88,7 +88,7 @@ readOpele(['o','o','o','o','c','c','c','c']).fon;  // 'Gbé Yèku'
 
 That ikin rule is inverted from what most people guess, and it is the most frequently miscopied detail in descriptions of the procedure. It is asserted in both directions in the test suite so it cannot drift.
 
-A pass that leaves no nuts, or three, is not a result, and the pass is taken again. This library refuses it rather than inventing a figure nobody cast:
+A pass that leaves no nuts, or three, is not a result, and the pass is taken again. This library refuses it instead of inventing a figure nobody cast:
 
 ```js
 readIkin([2, 2, 2, 2, 3, 1, 1, 1]);
@@ -125,7 +125,7 @@ s.reverse();     // both columns turned upside down
 s.complement();  // every stroke count swapped
 ```
 
-Each of those three relations is its own inverse. Applied to the sixteen dù they produce facts the test suite checks rather than describes: four dù read the same upside down and the other twelve pair off into six, and complementing pairs all sixteen into eight with nothing left fixed.
+Each of those three relations is its own inverse. Applied to the sixteen dù they produce facts the test suite checks, not describes: four dù read the same upside down and the other twelve pair off into six, and complementing pairs all sixteen into eight with nothing left fixed.
 
 ## The sixteen
 
@@ -166,13 +166,13 @@ fadu read --opele o,c,o,...    read one throw of the chain
 
 Worth being plain about, because a library that flattened this would be misleading.
 
-**Fixed.** Four positions to a column, sixteen columns, two columns to a figure, 256 figures. The right column is cast and read first. One nut left is a double stroke and two nuts left is a single.
+Fixed. Four positions to a column, sixteen columns, two columns to a figure, 256 figures. The right column is cast and read first. One nut left is a double stroke and two nuts left is a single.
 
-**Varies by region and by lineage.** The order in which the sixteen are listed. The order used here is given by [fongbebenin.com](https://fongbebenin.com/vodoun/fa_village.html) for the Fon dù and by [ileifa.org](https://ileifa.org/16-principal-odu-of-ifa-sacred-corpus/) for the Yoruba odù, and those two agree position for position, but at least one published Beninese list moves Ka to eleventh. The Wikipedia table carries an editorial note saying the same thing. **`rank` here is a stable handle for indexing, not a claim about seniority**, and the seniority order of the 256 is not encoded at all.
+Varies by region and by lineage. The order in which the sixteen are listed. The order used here is given by [fongbebenin.com](https://fongbebenin.com/vodoun/fa_village.html) for the Fon dù and by [ileifa.org](https://ileifa.org/16-principal-odu-of-ifa-sacred-corpus/) for the Yoruba odù, and those two agree position for position, but at least one published Beninese list moves Ka to eleventh. The Wikipedia table carries an editorial note saying the same thing. **`rank` here is a stable handle for indexing, not a claim about seniority**, and the seniority order of the 256 is not encoded at all.
 
 Spellings vary too, which is why lookup is generous. Tché is also written She and Cè, Trukpen is also Trukpin, Wlin is also Wenlen.
 
-**Varies, and left to the caller.** Which face of a pod means which stroke. Sources that describe the chain carefully often decline to fix it in print, so it is an option rather than a constant:
+Varies, and left to the caller. Which face of a pod means which stroke. Sources that describe the chain carefully often decline to fix it in print, so it is an option rather than a constant:
 
 ```js
 readOpele(faces, { convention: 'open-double' });
